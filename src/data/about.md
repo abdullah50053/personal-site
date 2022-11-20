@@ -1,15 +1,14 @@
 
 # Intro
-Howdy!
-I am a student studying Computer Science at The University of Texas at Dallas. I currently work for DiscoverSTEM, where I am the director of technology as well as a lead innovation facilitator. I have led a total of 9 teams (and counting) to innovate solutions to real-world problems, with patents being filed for each of the innovations. Along with facilitating innovation, I am also leading a team in designing and developing revolutionary medical devices in the Brain-Computer Interface Lab. Outside of work, I am active in student organizations at UTD. I am most active in the UTD chapter of the Association for Computing Machinery, where I am on the organizing team for HackUTD, the largest hackathon in Texas. I am also the project lead for HackPortal, an open-source hackathon management platform used at HackUTD by 1000+ people and companies such as American Airlines, StateFarm, Capital One, Goldman Sachs, and others. In my free time, I enjoy working on personal projects, such as an avionics project to develop an Enhanced Ground Proximity Warning System, as well as running and reading.
+Hello!
+I am a student studying Computer Science at The University of Texas at Dallas. [I currently work for DiscoverSTEM](https://www.instagram.com/p/CSVEOMPrjxk/), where I am a lead innovation facilitator. I have led a total of 12 teams (and counting) to [innovate solutions to real-world problems](https://discoverstem.info/our-student-innovation/), with patents being filed for each of the innovations. I also help out in the [Aerospace](https://discoverstem.info/aerospace-tech/) and [Brain-Computer Interface](https://discoverstem.info/neurotech-brain-computer-interface/) Labs, with a [published work on a solution to increase the mobility of fully paralyzed individuals](https://meridian.allenpress.com/innovationsjournals-IDDB/article/2/2022/73/488269/Abstracts-Presented-at-the-2nd-Annual-Advancing). I've also interned at Raytheon over summer 2022 as a machine learning and software development intern. Outside of work, I am active in student organizations at UTD, most notably in the [UTD chapter of the Association for Computing Machinery](https://leadership.acmutd.co/profile/PXjE8XhDE4H1Wv1mKCJ3) where I am on the organizing team for [HackUTD](https://hackutd.co/), the largest hackathon in Texas and third largest in the United States. I am also the project lead for [HackPortal](https://github.com/acmutd/hackportal), an open-source hackathon management platform [used at HackUTD](ix.hackutd.co/) by 1000+ people and other organizations and companies all over the United States. In my free time, I enjoy working on personal projects, such as an avionics project to develop an Enhanced Ground Proximity Warning System, as well as running and reading.
 
 
 # Some history
-I used to live in the Bay Area, California before moving to Plano, Texas.
+I used to live in the Bay Area, California before moving to the Dallas-Fort Worth area, Texas.
 
-# I like
+# I enjoy
 
 - Running
-- Aerospace
+- Traveling
 - Coding
-- Reading
