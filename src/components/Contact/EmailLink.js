@@ -10,9 +10,11 @@ const validateText = (text) => {
 
 const messages = [
   'Just saying hi',
-  'Please work for us',
   'I really like your website',
   'I have a question about one of your projects',
+  'Can you send over your resume',
+  'How many people have used HackPortal',
+  'Please work for us',
   'Or literally anything else!',
 ];
 

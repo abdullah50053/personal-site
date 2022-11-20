@@ -35,6 +35,14 @@ const data = [
       'Designed and developed the company site for Green Earth Care, an India-based vermiculture and vermicompost distribution company. ',
   },
   {
+    title: <a href="https://play.abdullahhasani.com/" target="blank">Tetris</a>,
+    subtitle: 'A simple game of Tetris.',
+    image: '/images/projects/tetris.png',
+    date: '2022-01-01',
+    desc:
+      'Developed a game of Tetris using React ',
+  },
+  {
     title: <a href="https://viii.hackutd.co/" target="blank">HackUTD VIII Event Site</a>,
     subtitle: 'The event site for HackUTD VIII, powered by HackPortal.',
     image: '/images/projects/hp-hutd.png',
