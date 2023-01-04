@@ -18,6 +18,13 @@ const Age = () => {
   return <>{age}</>;
 };
 
+const States = () => {
+  const statesVisited = 'Alabama, Arizona, Arkansas, California, Colorado, Florida, Georgia, Illinois, Kansas, Louisiana, Mississippi, Nevada, New Mexico, New York, North Carolina, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Utah, Washington';
+  const statesVisitedArray = statesVisited.split(', ');
+  const statesVisitedArrayLength = statesVisitedArray.length;
+  return <>{statesVisitedArrayLength}</>;
+};
+
 const data = [
   {
     key: 'age',
@@ -28,6 +35,11 @@ const data = [
     key: 'location',
     label: 'Current city',
     value: 'Dallas, TX',
+  },
+  {
+    key: 'location',
+    label: 'Number of US States Visited',
+    value: <States />,
   },
 ];
 
