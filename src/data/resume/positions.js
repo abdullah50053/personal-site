@@ -3,7 +3,7 @@ const positions = [
     company: 'Raytheon Intelligence & Space',
     position: 'Software Engineering & Machine Learning Intern',
     link: 'https://www.raytheon.com/',
-    daterange: 'May 2022 - Present',
+    daterange: 'May 2022 - August 2022',
     points: [
       'Developed a machine learning software to predict hardware faults.',
       'Refactored PERL scripts to process failure log files 250% faster.',
@@ -14,7 +14,7 @@ const positions = [
     company: 'DiscoverSTEM',
     position: 'Innovation Facilitator',
     link: 'https://discoverstem.info',
-    daterange: 'January 2021 - Present',
+    daterange: 'January 2021 - December 2022',
     points: [
       'Facilitated innovation teams to identify and solve real-world problems.',
       'Trained students to set up non-invasive neuroimaging system hardware (assembling electrodes, gel usage, Bluetooth optimization) and software (Unicorn BCI Suite, MATLAB) for recording electroencephalography (EEG) data.',
