@@ -7,14 +7,22 @@ const Index = () => (
   <Main
     description={"Abdullah Hasani's personal website."}
   >
-    <meta property="og:site_name" content="Abdullah Hasani" />
-    <meta property="og:title" content="Personal Site - Abdullah Hasani" />
-    <meta property="og:description" content="Abdullah Hasani's portfolio site" />
-    <meta property="og:url" content="https://abdullahhasani.com/" />
-    <meta property="og:image" content="https://asset.cloudinary.com/dx1x7j2ti/5dc8c4bf7a7679820ac512465c5be92c" />
-    <meta property="og:image:secure_url" content="https://asset.cloudinary.com/dx1x7j2ti/5dc8c4bf7a7679820ac512465c5be92c" />
-    <meta property="og:image:width" content="650" />
-    <meta property="og:image:height" content="650" />
+
+  <title>Abdullah Hasani</title>
+  <meta name="description" content="Abdullah Hasani's portfolio website"/>
+
+  <meta property="og:url" content="https://abdullahhasani.com"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Abdullah Hasani"/>
+  <meta property="og:description" content="Abdullah Hasani's portfolio website"/>
+  <meta property="og:image" content="https://res.cloudinary.com/dx1x7j2ti/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1673234240/AH_cntnzn.jpg"/>
+
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta property="twitter:domain" content="abdullahhasani.com"/>
+  <meta property="twitter:url" content="https://abdullahhasani.com"/>
+  <meta name="twitter:title" content="Abdullah Hasani"/>
+  <meta name="twitter:description" content="Abdullah Hasani's portfolio website"/>
+  <meta name="twitter:image" content="https://res.cloudinary.com/dx1x7j2ti/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1673234240/AH_cntnzn.jpg"/>        
 
     <article className="post" id="index">
       <header>
