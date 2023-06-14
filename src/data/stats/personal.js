@@ -19,10 +19,8 @@ const Age = () => {
 };
 
 const States = () => {
-  const statesVisited = 'Alabama, Arizona, Arkansas, California, Colorado, Florida, Georgia, Illinois, Kansas, Louisiana, Mississippi, Nevada, New Mexico, New York, North Carolina, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Utah, Washington';
-  const statesVisitedArray = statesVisited.split(', ');
-  const statesVisitedArrayLength = statesVisitedArray.length;
-  return <>{statesVisitedArrayLength}</>;
+  const statesVisited = 23;
+  return <>{statesVisited}</>;
 };
 
 const data = [

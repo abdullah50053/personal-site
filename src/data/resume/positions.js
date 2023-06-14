@@ -1,5 +1,23 @@
 const positions = [
   {
+    company: 'Dell Technologies',
+    position: 'Software Engineering Intern',
+    link: 'https://dell.com/en-us',
+    daterange: 'May 2023 - August 2023',
+    points: [
+    ],
+  },
+  {
+    company: 'Major League Hacking',
+    position: 'Coach/Streamer',
+    link: 'https://mlh.io/',
+    daterange: 'April 2023 - Present',
+    points: [
+      'Streamed technical project-based workshops to hundreds of people.',
+      'Lead non-technical mini events',
+    ],
+  },
+  {
     company: 'Raytheon Intelligence & Space',
     position: 'Software Engineering & Machine Learning Intern',
     link: 'https://www.raytheon.com/',
