@@ -9,12 +9,12 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'Just saying hi',
-  'I really like your website',
-  'I have a question about one of your projects',
-  'Can you send over your resume',
-  'How many people have used HackPortal',
-  'Please work for us',
+  'Just saying hi 👋',
+  'I really like your website 👍',
+  'I have a question about one of your projects 👨‍💻',
+  'Can you send over your resume?',
+  'How many people have used HackPortal?',
+  'Please work for us 🙏',
   'Or literally anything else!',
 ];
 
@@ -37,7 +37,7 @@ const useInterval = (callback, delay) => {
 };
 
 const EmailLink = () => {
-  const hold = 50; // ticks to wait after message is complete before rendering next message
+  const hold = 20; // ticks to wait after message is complete before rendering next message
   const delay = 50; // tick length in mS
 
   const [idx, updateIter] = useState(0); // points to current message

@@ -26,18 +26,28 @@ const States = () => {
 const data = [
   {
     key: 'age',
-    label: 'Current age',
+    label: 'Current Age',
     value: <Age />,
   },
   {
     key: 'location',
-    label: 'Current city',
+    label: 'Current City',
     value: 'Dallas, TX',
   },
   {
     key: 'location',
     label: 'Number of US States Visited',
     value: <States />,
+  },
+  {
+    key: 'patents',
+    label: 'Number of Patents',
+    value: 8,
+  },
+  {
+    key: 'hackathons',
+    label: 'Hackathons Organized',
+    value: 5,
   },
 ];
 
