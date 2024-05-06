@@ -66,7 +66,7 @@ const data = [
     image: '/images/projects/npwee.jpg',
     date: '2021-04-01',
     desc:
-      'Wrote a proposal for a food printer to be used on off-world misions. Gained experience in the process of writing, reviewing, and scoring proposals through the lens of a NASA reviewer.',
+      'Designed a proposal for a food printer to be used on off-world missions. Wrote, reviewed, and scored proposals through the lens of a NASA reviewer.',
   },
   {
     title: <a href="https://vii.hackutd.co/" target="blank">HackUTD VII</a>,

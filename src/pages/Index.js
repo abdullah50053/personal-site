@@ -19,6 +19,7 @@ const Index = () => (
           </p>
         </div>
       </header>
+      
       <p> Welcome! Feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
         <Link to="/resume">resume</Link>, {' '}

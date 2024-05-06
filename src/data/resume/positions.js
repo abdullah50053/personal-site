@@ -1,11 +1,32 @@
 const positions = [
   {
+    company: 'Dell Technologies',
+    position: 'Software Engineer',
+    link: 'https://dell.com/en-us',
+    daterange: 'February 2024 - Present',
+    points: [
+      'Developed hotfixes for Dell PowerScale OneFS on the supportability team',
+      'Developed an improved Cluster wide Event Log system for OneFS to improve supportability',
+    ],
+  },
+  {
     company: 'Major League Hacking',
     position: 'Coach/Streamer',
     link: 'https://mlh.io/',
     daterange: 'April 2023 - Present',
     points: [
+      'Mentored hackathon organizers at MLH partner events in different universities all over the United States and Canada',
       'Streamed project-based interactive coding sessions to thousands of people via Twitch and YouTube',
+    ],
+  },
+  {
+    company: 'Raytheon Intelligence & Space',
+    position: 'Software Engineering Intern',
+    link: 'https://www.raytheon.com/',
+    daterange: 'August 2023 - December 2023',
+    points: [
+      'Contributed to development of long-range hyperspectral imaging systems in C++ and Ada',
+      'Deployed test software to hardware simulator and verified functionality',
     ],
   },
   {
