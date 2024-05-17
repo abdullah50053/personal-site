@@ -6,6 +6,18 @@ const courses = [
     university: 'UT Dallas',
   },
   {
+    title: ' Automata Theory',
+    number: 'CS4384',
+    link: '',
+    university: 'UT Dallas',
+  },
+  {
+    title: ' Computer Vision',
+    number: 'CS4391',
+    link: '',
+    university: 'UT Dallas',
+  },
+  {
     title: ' Human Language Technologies',
     number: 'CS4395',
     link: '',

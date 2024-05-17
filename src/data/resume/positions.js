@@ -5,8 +5,8 @@ const positions = [
     link: 'https://dell.com/en-us',
     daterange: 'February 2024 - Present',
     points: [
-      'Developed hotfixes for Dell PowerScale OneFS on the supportability team',
-      'Developed an improved Cluster wide Event Log system for OneFS to improve supportability',
+      'Developing and shipping production-level hotfixes for Dell\'s PowerScale OneFS software on the supportability team',
+      'Developing an improved Cluster-wide Event Log system for OneFS to reduce the time to diagnose and resolve issues',
     ],
   },
   {
@@ -15,8 +15,8 @@ const positions = [
     link: 'https://mlh.io/',
     daterange: 'April 2023 - Present',
     points: [
-      'Mentored hackathon organizers at MLH partner events in different universities all over the United States and Canada',
-      'Streamed project-based interactive coding sessions to thousands of people via Twitch and YouTube',
+      'Mentoring hundreds of hackathon organizers at MLH partner events in different universities all over the United States and Canada',
+      'Streaming project-based interactive coding sessions to thousands of people via Twitch and YouTube',
     ],
   },
   {
