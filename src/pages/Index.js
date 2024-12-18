@@ -1,6 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import ReactMarkdown from 'react-markdown';
+import raw from 'raw.macro';
 import Main from '../layouts/Main';
+
+// uses babel to load contents of file
+const markdown = raw('../data/about.md');
+
+// Make all hrefs react router links
+const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Index = () => (
   <Main
@@ -8,25 +16,20 @@ const Index = () => (
   >
 
     <title>Abdullah Hasani</title>
-    <meta name="description" content="Abdullah Hasani's portfolio website" />
-    <article className="post" id="index">
+    <meta name="description" content="Abdullah Hasani's personal website." />
+    <article className="post markdown" id="">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">Welcome to my site</Link></h2>
-          <p>
-            An ongoing project by Abdullah Hasani
-          </p>
+          <h2 data-testid="heading"><Link to="/">Hello!</Link></h2>
         </div>
       </header>
-
-      <p> Welcome! Feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">some statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
-      </p>
-      <p> Bored? Play a game of <a href="https://play.abdullahhasani.com/">Tetris</a>!</p>
+      <ReactMarkdown
+        source={markdown}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        allowDangerousHtml={false}
+      />
     </article>
   </Main>
 );

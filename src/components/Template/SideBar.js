@@ -13,24 +13,22 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Abdullah Hasani</h2>
-        <p><a href="mailto:hello@abdullahhasani.com">Email</a></p>
+        <p><a href="mailto:hello@abdullahhasani.com">Get in touch</a></p>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Abdullah. I like building things.
-      </p>
+      <p>Hi, I&apos;m Abdullah. I like building things.</p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">See what I&apos;ve done</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/projects') ? <Link to="/projects" className="button">See what I&apos;ve built</Link> : <Link to="/" className="button">About Me</Link>}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Abdullah Hasani <Link to="/">abdullahhasani.com</Link>.</p>
+      <p className="copyright">&copy; Abdullah Hasani 2025 <Link to="/">abdullahhasani.com</Link>.</p>
     </section>
   </section>
 );

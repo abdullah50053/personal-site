@@ -1,5 +1,23 @@
 const courses = [
   {
+    title: ' Ethics In AI',
+    number: '',
+    link: '',
+    university: 'UT Austin',
+  },
+  {
+    title: ' Deep Learning',
+    number: '',
+    link: '',
+    university: 'UT Austin',
+  },
+  {
+    title: ' Machine Learning',
+    number: '',
+    link: '',
+    university: 'UT Austin',
+  },
+  {
     title: ' Operating System Concepts',
     number: 'CS4348',
     link: '',

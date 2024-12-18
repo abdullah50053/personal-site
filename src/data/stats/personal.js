@@ -19,7 +19,7 @@ const Age = () => {
 };
 
 const States = () => {
-  const statesVisited = 27;
+  const statesVisited = 28;
   return <>{statesVisited}</>;
 };
 
@@ -35,9 +35,14 @@ const data = [
     value: 'Austin, TX',
   },
   {
-    key: 'location',
-    label: 'Number of US States Visited',
+    key: 'states',
+    label: 'US States Visited',
     value: <States />,
+  },
+  {
+    key: 'patents',
+    label: 'Patents Granted',
+    value: '17',
   },
 ];
 
