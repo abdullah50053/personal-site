@@ -31,7 +31,7 @@ const About = () => (
         renderers={{
           Link: LinkRenderer,
         }}
-        escapeHtml={false}
+        allowDangerousHtml={false}
       />
     </article>
   </Main>

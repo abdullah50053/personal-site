@@ -26,6 +26,7 @@ const Index = () => (
         view <Link to="/stats">some statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
+      <p> Bored? Play a game of <a href="https://play.abdullahhasani.com/">Tetris</a>!</p>
     </article>
   </Main>
 );
