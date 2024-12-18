@@ -12,10 +12,28 @@ const projects = [
     year: '2024',
   },
   {
+    title: 'Deploying Your First Web App',
+    desc: 'Livestream on deploying your first web app',
+    link: 'https://www.youtube.com/watch?v=BE6mm-0HTo0',
+    year: '2024',
+  },
+  {
+    title: 'Running AI Models in the Cloud',
+    desc: 'Livestream on running AI models in the cloud',
+    link: 'https://github.com/abdullah50053/deep-learning/tree/main/homework4',
+    year: '2024',
+  },
+  {
     title: 'MunchMatch',
     desc: 'Simplifying the dining decision-making process',
     link: 'https://github.com/abdullah50053/treehacks',
     year: '2024',
+  },
+  {
+    title: 'MLH Hackcon XI',
+    desc: 'Conference speaker at MLH Hackcon XI',
+    link: 'https://www.youtube.com/watch?v=tAF_gafo0FQ',
+    year: '2023',
   },
   {
     title: 'Harmony',
@@ -27,6 +45,12 @@ const projects = [
     title: 'Elevator Pitch',
     desc: 'Speech recognition-powered overview of maintenance complaints',
     link: 'https://github.com/Spaceface16518/elevator-pitch',
+    year: '2023',
+  },
+  {
+    title: 'Earthquake Data Visualization',
+    desc: 'Livestream on creating an interactive earthquake visualizer',
+    link: 'https://www.youtube.com/watch?v=KmelDMdUtEY',
     year: '2023',
   },
   {
