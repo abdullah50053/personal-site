@@ -1,5 +1,17 @@
 const projects = [
   {
+    title: 'Creating Math Animations with Manim',
+    desc: 'Livestream on Creating Math Animations using the Manim Python library',
+    link: 'https://github.com/abdullah50053/Whisper-Speculative-Decoding',
+    year: '2025',
+  },
+  {
+    title: 'Build your own Blockchain',
+    desc: 'Livestream on Building a Blockchain from scratch',
+    link: 'https://www.youtube.com/watch?v=PZI5VQN0x1g',
+    year: '2025',
+  },
+  {
     title: 'Speculative Decoding',
     desc: 'Using transformer inference and speculative decoding to speed up transcription',
     link: 'https://github.com/abdullah50053/Whisper-Speculative-Decoding',
