@@ -30,6 +30,7 @@ const Index = () => (
         }}
         allowDangerousHtml={false}
       />
+      <br />
     </article>
   </Main>
 );
