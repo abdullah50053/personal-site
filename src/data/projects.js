@@ -1,8 +1,38 @@
 const projects = [
   {
+    title: 'Intro to AI Agents',
+    desc: 'Livestream on Creating AI Agents',
+    link: 'https://www.youtube.com/watch?v=w87lOD0YaBo',
+    year: '2025',
+  },
+  {
+    title: 'Satellite Image Segmentation using AI',
+    desc: 'Livestream on Satellite Image Segmentation using AI',
+    link: 'https://www.youtube.com/watch?v=Y6gqvleK2xs',
+    year: '2025',
+  },
+  {
+    title: 'Building an AI-Powered Chatbot with Cloud Services',
+    desc: 'Livestream on Building an AI-Powered Chatbot with AWS Lambda',
+    link: 'https://www.youtube.com/watch?v=RXkCf5Zfd-g',
+    year: '2025',
+  },
+  {
+    title: 'AI Model Training and Deployment on the Cloud',
+    desc: 'Livestream on AI Model Training and Deployment on Cloud GPUs',
+    link: 'https://www.youtube.com/watch?v=TLteZIvizyg',
+    year: '2025',
+  },
+  {
+    title: 'Building a Cloud-Native CI/CD Pipeline',
+    desc: 'Livestream on Building a Cloud-Native CI/CD Pipeline in Azure',
+    link: 'https://www.youtube.com/watch?v=BcUCVkuZteQ',
+    year: '2025',
+  },
+  {
     title: 'Creating Math Animations with Manim',
     desc: 'Livestream on Creating Math Animations using the Manim Python library',
-    link: 'https://www.youtube.com/watch?v=-m9pK92F0EY&t=5s',
+    link: 'https://www.youtube.com/watch?v=-m9pK92F0EY',
     year: '2025',
   },
   {

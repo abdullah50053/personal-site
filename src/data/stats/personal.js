@@ -19,7 +19,7 @@ const Age = () => {
 };
 
 const States = () => {
-  const statesVisited = 28;
+  const statesVisited = 30;
   return <>{statesVisited}</>;
 };
 
@@ -42,7 +42,7 @@ const data = [
   {
     key: 'patents',
     label: 'Patents Granted',
-    value: '17',
+    value: '12',
   },
 ];
 
