@@ -1,5 +1,35 @@
 const projects = [
   {
+    title: 'Vision-Language Model Training',
+    desc: 'Built VLM data pipelines and trained advanced vision models',
+    link: 'http://github.com/abdullah50053/',
+    year: '2025',
+  },
+  {
+    title: 'Reasoning LLM Development',
+    desc: 'Fine-tuned an AI model for accurate reasoning using in-context learning',
+    link: 'http://github.com/abdullah50053/',
+    year: '2025',
+  },
+  {
+    title: 'Low Memory Model Training and Inference',
+    desc: 'An exploration of memory saving techniques for AI models',
+    link: 'http://github.com/abdullah50053/',
+    year: '2025',
+  },
+  {
+    title: 'Verified Procedures Development',
+    desc: 'Created a variety of verifiable procedures in Dafny',
+    link: 'http://github.com/abdullah50053/',
+    year: '2025',
+  },
+  {
+    title: 'CDCL and Congruence Closure Decision Procedure SAT Solvers',
+    desc: 'A CDCL and CCDP satisfiablity solver',
+    link: 'http://github.com/abdullah50053/',
+    year: '2025',
+  },
+  {
     title: 'Intro to AI Agents',
     desc: 'Livestream on Creating AI Agents',
     link: 'https://www.youtube.com/watch?v=w87lOD0YaBo',
@@ -87,6 +117,12 @@ const projects = [
     title: 'Elevator Pitch',
     desc: 'Speech recognition-powered overview of maintenance complaints',
     link: 'https://github.com/Spaceface16518/elevator-pitch',
+    year: '2023',
+  },
+  {
+    title: 'Satellite and Aircraft Signal Processing',
+    desc: 'Advanced ML algorithm design to process raw signal data',
+    link: '',
     year: '2023',
   },
   {
