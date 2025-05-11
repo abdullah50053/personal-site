@@ -1,5 +1,17 @@
 const courses = [
   {
+    title: ' Automated Logical Reasoning',
+    number: '',
+    link: '',
+    university: 'UT Austin',
+  },
+  {
+    title: ' Advances in Deep Learning',
+    number: '',
+    link: '',
+    university: 'UT Austin',
+  },
+  {
     title: ' Ethics In AI',
     number: '',
     link: '',
