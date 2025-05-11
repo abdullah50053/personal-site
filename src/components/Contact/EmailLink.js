@@ -13,8 +13,8 @@ const messages = [
   'Please work for us 🙏',
   'I really like your website 👍',
   'I have a question about one of your projects 👨‍💻',
-  'Can you send over your resume?',
-  'How many people have used HackPortal?',
+  'Can you send over your resume? 📄',
+  'What is your favorite programming language? 🤔',
   'Or literally anything else!',
 ];
 
